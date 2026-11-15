@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 .env
 data/netflix_customer_churn.csv
+data/netflix_churn_clean.csv
